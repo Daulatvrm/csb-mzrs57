@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://daulatvrm.github.io/csb-mzrs57/static/css/main.67082542.css",
+    "main.js": "https://daulatvrm.github.io/csb-mzrs57/static/js/main.e6f64d99.js",
+    "index.html": "https://daulatvrm.github.io/csb-mzrs57/index.html",
+    "main.67082542.css.map": "https://daulatvrm.github.io/csb-mzrs57/static/css/main.67082542.css.map",
+    "main.e6f64d99.js.map": "https://daulatvrm.github.io/csb-mzrs57/static/js/main.e6f64d99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67082542.css",
+    "static/js/main.e6f64d99.js"
+  ]
+}
